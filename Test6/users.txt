@@ -1,0 +1,3 @@
+Hokage,Minoko,123456,Hoshino
+1,1,1,1
+2,2,2,2
